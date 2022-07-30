@@ -1,0 +1,28 @@
+.bg-light2,.footer {
+    background-color: darkred;
+    color: white;
+}
+
+.bg-light2 .navbar-brand {
+		color: white
+}
+
+.navbar-light .navbar-nav .active>.nav-nt, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-nt {
+    color: rgb(249 246 246 / 90%);
+}
+
+.about-pizza {
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+
+.footer {
+	padding-top: 10px;
+}
+
+.image-fourth{
+	height: ;
+}
+
+.navbar-light .navbar-nav .nav-nt {
+    color: #f8f9fa;
